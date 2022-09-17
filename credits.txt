@@ -1,0 +1,7 @@
+Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial  (Coding With Russ): https://www.youtube.com/watch?v=s5bd9KMSSW4&t=2044s
+
+Python Pong AI Tutorial - Using NEAT  (Tech With Tim): https://youtu.be/2f6TmKm7yx0
+
+Background: https://www.deviantart.com/flashpotatoes/art/Game-Background-114268893
+
+Spritesheet: https://opengameart.org/forumtopic/2d-fighter-game-character-sprite-sheet  TLBAqua
